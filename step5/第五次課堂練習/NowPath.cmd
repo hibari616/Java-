@@ -1,0 +1,2 @@
+start cmd.exe
+cd C:\Documents and Settings\Administrator\??\Java6\step5\???????

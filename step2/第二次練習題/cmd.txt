@@ -1,0 +1,10 @@
+====1
+
+javac java1.java
+java java1
+
+====2
+
+java java1 > aaa >2 bbb
+type aaa
+type ddd
